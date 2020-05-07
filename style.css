@@ -1,0 +1,79 @@
+button {
+    font-size: 1em;
+    padding: 1em 3em;
+    margin: 2em;
+
+}
+button:hover
+{
+    cursor: pointer;
+}
+
+#add {
+    background-color: #ea4a4c;
+    color: white;
+    border: none;
+}
+#add:hover
+{
+    background-color: #f30601;     
+}
+#start {
+    background-color: yellow;
+    color: #2757f5;
+    border-color: #2757f5;
+    border-style: solid;
+}
+#start:hover
+{
+    background-color: #2757f5;
+    color:yellow;      
+}
+
+
+#login {
+    background-color: lightgreen;
+    color: white;
+    border: none;
+    border-radius: 3em;
+    background-image: linear-gradient(to right, #40dae3, #61fca1);
+}
+
+#signup {
+    background-color: white;
+    color: #6749ea;
+    border-radius: 1em;
+    border-color: #6749ea;
+}
+#signup:hover
+{
+    border-radius: 4em ;
+    background-color: #6749ea;
+    color:white;            
+}
+#twitter
+{
+    color:#52a7e7;
+    background-color: white;
+    border:2px solid #52a7e7;
+    border-radius: 5em;
+    padding:1.3em 1.5em;
+}
+#twitter:hover
+{
+    color: white;
+    background-color:#52a7e7 ;
+}
+#subscribe
+{
+    background-image: linear-gradient(to top,#f5a33f,#fac733);
+    color:white;
+    border: 2px solid #f5a332;
+    border-radius: 10px;
+}
+#subscribe:hover
+{
+    background-color: #f5a332;
+    background-image: none;
+}
+
